@@ -1,0 +1,22 @@
+#######################################
+#  Picasso Plotter Bill of Materials  #
+#######################################
+
+
+Pillow Bearings
+------------------
+  Casing:
+    2 x picasso_pillow_bearing.scad
+    4 x M3 Hex Capped 10mm Bolt
+    4 x M3 Washer
+    4 x M3 Nut
+    
+  Shaft:  
+    4 x 608zz Bearing
+    2 x M8 Hex Head 40mm Bolt
+    2 x M8 Hex Nut
+    2 x M8 Hex Nyloc Nut
+    6 x M8 Washer
+
+Motor Arms
+------------------

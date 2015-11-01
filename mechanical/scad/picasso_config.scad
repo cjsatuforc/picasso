@@ -11,3 +11,7 @@ picasso_bearing_head_gap = 6;
 // the M8 Bolt in the billow bearing, to the centre of the 
 // Nema14 axle
 picasso_motor_arm_length = 100;
+
+//Measures the length of the pen arm from the centre of
+// the Nema14 axle and the centre of the 6002 bearing 
+picasso_pen_arm_length = 100;

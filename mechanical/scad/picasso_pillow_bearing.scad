@@ -1,4 +1,4 @@
-include <MCAD/bearing.scad>
+include <import/custom_bearing.scad>
 include <MCAD/nuts_and_bolts.scad>
 include <BOLTS/BOLTS.scad>
 include <picasso_config.scad>
